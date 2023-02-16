@@ -12,7 +12,7 @@
 - 🎓 Graduando em Ciência da Computação  
   
 
-- 🌱 Atualmente estou estudando Dart & Flutter  
+- 🌱 Atualmente estou estudando PHP & Scriptcase
   
 
 - ✉ Entre em contato via:\
