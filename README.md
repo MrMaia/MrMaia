@@ -15,11 +15,11 @@
 - 🌱 Atualmente estou estudando PHP & Scriptcase
   
 
-- ✉ Entre em contato via:\
+- ✉ Entre em contato via:
 
-  WhatsApp: (81)9 9686-9691
-  Discord: Mαiα#4566
-  E-mail: allanmaiasantos51@hotmail.com
+  WhatsApp: (81)9 9686-9691\
+  Discord: Mαiα#4566\
+  E-mail: allanmaiasantos51@hotmail.com\
   Linkedin: allan-maia51
   
 
