@@ -16,7 +16,11 @@
   
 
 - ✉ Entre em contato via:\
-Discord: EM BREVE  
+
+WhatsApp: (81)9 9686-9691\
+Discord: Mαiα#4566\
+E-mail: allanmaiasantos51@hotmail.com
+Linkedin: allan-maia51
   
 
 <br/>  
