@@ -18,7 +18,7 @@
 - ✉ Entre em contato via:
 
   WhatsApp: (81)9 9686-9691\
-  Discord: mrmaia
+  Discord: mrmaia\
   E-mail: allanmsantos51@hotmail.com\
   Linkedin: allan-maia51
   
