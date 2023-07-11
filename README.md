@@ -12,14 +12,14 @@
 - 🎓 Graduando em Ciência da Computação  
   
 
-- 🌱 Atualmente estou estudando PHP & Scriptcase
+- 🌱 Atualmente estou estudando React & VueJs
   
 
 - ✉ Entre em contato via:
 
   WhatsApp: (81)9 9686-9691\
-  Discord: Mαiα#4566\
-  E-mail: allanmaiasantos51@hotmail.com\
+  Discord: mrmaia
+  E-mail: allanmsantos51@hotmail.com\
   Linkedin: allan-maia51
   
 
