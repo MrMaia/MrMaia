@@ -6,7 +6,7 @@
 ### <div align="center">Me chamo Allan, sou um desenvolvedor Fullstack 👨‍💻</div>  
   
 
-- 💼 Hoje, sou estagiário na Agência Estadual de Águas e Climas  
+- 💼 Hoje, sou estagiário na Agência Estadual de Águas e Clima
   
 
 - 🎓 Graduando em Ciência da Computação (7º Período)  
