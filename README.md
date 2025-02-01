@@ -9,7 +9,7 @@
 - 💼 Hoje, sou estagiário na Agência Estadual de Águas e Clima
   
 
-- 🎓 Graduando em Ciência da Computação (7º Período)  
+- 🎓 Graduado em Ciência da Computação 2024
   
 
 - 📖 Atualmente estou estudando React & Laravel  
