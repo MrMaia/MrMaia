@@ -6,7 +6,7 @@
 ### <div align="center">Me chamo Allan, sou um desenvolvedor Fullstack 👨‍💻</div>  
   
 
-- 💼 Game Developer na <a href="https://www.linkedin.com/company/bsatech/posts/?feedView=all">BSA Tech<a> | Focado em soluções de iGaming
+- 💼 Game Developer na <a href="https://www.linkedin.com/company/bsatech/posts/?feedView=all" target="_blank">BSA Tech<a> | Focado em soluções de iGaming
   
 
 - 🎓 Graduado em Ciência da Computação 2024.2
