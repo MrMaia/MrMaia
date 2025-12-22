@@ -6,19 +6,17 @@
 ### <div align="center">Me chamo Allan, sou um desenvolvedor Fullstack 👨‍💻</div>  
   
 
-- 💼 Hoje, estou trabalhando como free-lancer e na minha empresa de Automação Digital
+- 💼 Game Developer na <a href="https://www.linkedin.com/company/bsatech/posts/?feedView=all">BSA Tech<a> | Focado em soluções de iGaming
   
 
-- 🎓 Graduado em Ciência da Computação 2024
+- 🎓 Graduado em Ciência da Computação 2024.2
   
 
-- 📖 Atualmente estou estudando React & Laravel  
+- 📖 Atualmente estou estudando Unity & C#  
   
 
 - ✉ Entre em contato via:
 
-  WhatsApp: (81)9 9686-9691\
-  Discord: mrmaia\
   E-mail: allanmsantos51@hotmail.com\
   Linkedin: allan-maia51  
   
@@ -26,9 +24,7 @@
 <br/>  
 
 
-## My Skill Set  
-
-### Frontend  
+## My Skill Set
 <div align="center">  
 <a href="#"><img style="margin: 10px" src="https://icon.icepanel.io/Technology/svg/React.svg" alt="React" height="50" /></a>
 <a href="#"><img style="margin: 10px" src="https://icon.icepanel.io/Technology/png-shadow-512/Unity.png" alt="Unity" height="50" /></a>
