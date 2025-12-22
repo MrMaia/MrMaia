@@ -27,7 +27,6 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
 
 ### Frontend  
 <div align="center">  
@@ -61,9 +60,7 @@
 <br/>
 
 <div align="center">
-            <a href="https://www.buymeacoffee.com/mrmaia" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
+  <a href="https://www.buymeacoffee.com/mrmaia" target="_blank" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" align="center"/>
+  </a>
+</div>
