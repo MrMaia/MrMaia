@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Allan+Maia+%F0%9F%91%8B;Desenvolvedor+Fullstack;Game+Developer+%F0%9F%8E%AE;Apaixonado+por+tecnologia" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Allan+Maia+%F0%9F%91%8B;Desenvolvedor+Fullstack+Pleno;Game+Developer+%F0%9F%8E%AE;Apaixonado+por+tecnologia" alt="Typing SVG" />
   </a>
 </div>
 
@@ -32,17 +32,15 @@
 
 ```typescript
 const allan = {
-  role:     "Game Developer @ BSA Tech",
-  focus:    "iGaming Solutions",
+  role:     "Desenvolvedor Fullstack Pleno @ Maia Melo Engenharia",
   degree:   "Ciência da Computação (2024.2)",
-  studying: ["Unity", "C#"],
+  studying: ["Unreal Engine", "C#"],
   contact:  "allanmsantos51@hotmail.com",
 };
 ```
 
-- 💼 Atuo como **Game Developer** na [BSA Tech](https://www.linkedin.com/company/bsatech/), focado em soluções de **iGaming**
+- 💼 Atuo como **Desenvolvedor Fullstack Pleno** na **Maia Melo Engenharia**
 - 🎓 Graduado em **Ciência da Computação** — 2024.2
-- 📖 Atualmente estudando **Unity & C#**
 - 🎮 Apaixonado por desenvolvimento de jogos e tecnologia
 
 ---
@@ -53,21 +51,24 @@ const allan = {
 
 **Frontend**
 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 
-**Backend**
+**Backend & Banco de Dados**
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scriptcase](https://img.shields.io/badge/Scriptcase-E84C3D?style=for-the-badge&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Game Dev**
 
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 </div>
 
@@ -82,14 +83,6 @@ const allan = {
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrMaia&theme=tokyonight&hide_border=true" alt="streak stats"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MrMaia&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies"/>
 </div>
 
 ---
