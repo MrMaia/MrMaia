@@ -32,14 +32,14 @@
 
 ```typescript
 const allan = {
-  role:     "Desenvolvedor Fullstack Pleno @ Maia Melo Engenharia",
+  role:     "Fullstack Pleno @ Maia Melo Engenharia",
   degree:   "Ciência da Computação (2024.2)",
   studying: ["Unreal Engine", "C#"],
   contact:  "allanmsantos51@hotmail.com",
 };
 ```
 
-- 💼 Atuo como **Desenvolvedor Fullstack Pleno** na **Maia Melo Engenharia**
+- 💼 Atuo como **Desenvolvedor Fullstack Pleno** na [Maia Melo Engenharia](https://www.linkedin.com/company/maia-melo-engenharia/posts/?feedView=all)
 - 🎓 Graduado em **Ciência da Computação** — 2024.2
 - 🎮 Apaixonado por desenvolvimento de jogos e tecnologia
 
@@ -54,6 +54,8 @@ const allan = {
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 
